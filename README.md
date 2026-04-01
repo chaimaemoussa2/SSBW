@@ -4,15 +4,24 @@
 - Node.js
 - Docker Desktop
 
-## Pasos
-1. Crear un archivo .env a partir de .env.example
+## Opción 1
+1. Abrir Docker Desktop
 2. Ejecutar docker compose up -d
 3. Ejecutar npm install
 4. Ejecutar npx prisma generate
-5. Ejecutar npx prisma migrate dev
-6. Ejecutar node seed.ts
-7. Ejecutar node registra_usuarios.ts
-8. Ejecutar npm run dev
+5. Restaurar la base de datos ejecutando:
+   docker exec -i ssbw_postgres psql -U yo -d ssbw < backup_ssbw.sql
+6. Ejecutar npm run dev
+
+## Opción 2
+Si se prefiere recrear la base de datos desde cero:
+1. Ejecutar docker compose up -d
+2. Ejecutar npm install
+3. Ejecutar npx prisma generate
+4. Ejecutar npx prisma migrate dev
+5. Ejecutar node seed.ts
+6. Ejecutar node registra_usuarios.ts
+7. Ejecutar npm run dev
 
 ## Abrir la web
 http://localhost:3000
