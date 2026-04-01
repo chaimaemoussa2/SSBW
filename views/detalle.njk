@@ -1,0 +1,40 @@
+{% extends "base.njk" %}
+
+{% block title %}Detalle{% endblock %}
+
+{% block content %}
+  <div class="row">
+    <div class="col-md-6">
+      <img
+        src="/public/imagenes/{{ producto.imagen | trim }}"
+        class="img-fluid"
+        alt="{{ producto.titulo | trim }}"
+      >
+    </div>
+
+    <div class="col-md-6">
+      <h1>{{ producto.titulo | trim }}</h1>
+      <p class="lead">{{ producto.precio }} €</p>
+      <p>{{ producto.descripcion | trim }}</p>
+
+      <form action="/al-carrito/{{ producto.id }}" method="POST" class="mb-3">
+        <div class="mb-3">
+          <label for="cantidad" class="form-label">Cantidad</label>
+          <input
+            type="number"
+            id="cantidad"
+            name="cantidad"
+            value="1"
+            min="1"
+            class="form-control"
+            style="max-width: 120px;"
+          >
+        </div>
+
+        <button class="btn btn-primary" type="submit">Añadir a la cesta</button>
+      </form>
+
+      <a href="/" class="btn btn-secondary">Back</a>
+    </div>
+  </div>
+{% endblock %}

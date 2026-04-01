@@ -1,0 +1,6 @@
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:05.508Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:15.339Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:16.048Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:16.699Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:17.721Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:05:02.564Z"}

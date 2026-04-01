@@ -1,0 +1,730 @@
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T18:58:28.836Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T18:59:06.941Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:23:08.978Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:23:08.978Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:23:18.268Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:23:18.303Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:23:29.427Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:26:14.871Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:26:14.870Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:28:31.087Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:28:31.144Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:31:08.298Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:32:57.793Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:32:57.820Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:32:57.833Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:34:32.407Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:34:32.421Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:34:32.435Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:37:02.285Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:37:02.322Z"}
+{"level":"info","message":"Server running on http://localhost:${PORT}","timestamp":"2026-03-18T19:37:02.377Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:39:46.780Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:39:46.785Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:39:46.852Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:49:35.153Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:49:35.222Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:49:35.549Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:51:05.333Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:56:31.299Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:56:32.238Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:56:32.361Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:56:32.686Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T19:56:42.695Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:03:15.670Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:03:15.687Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:03:15.764Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:03:32.977Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:42:22.016Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:42:22.062Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-18T20:42:22.410Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T00:02:40.549Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T00:02:41.915Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T00:03:05.279Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:05.507Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:15.338Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:16.047Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:16.698Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:17.721Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:05:02.564Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T00:09:30.652Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T00:10:06.088Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T21:09:29.655Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-03-20T21:09:30.710Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T17:46:27.791Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T17:46:29.266Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T17:46:38.512Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T17:46:57.683Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T17:57:47.479Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:20:36.125Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:21:22.171Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:21:24.219Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:21:53.634Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:22:04.166Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:26:35.298Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:26:35.310Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:27:32.189Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:27:32.192Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:27:36.911Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:27:36.918Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:28:43.126Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:28:43.129Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:22.018Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:22.070Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:36.605Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:36.614Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:42.211Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:42.242Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:47.661Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:47.767Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:53.603Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:29:53.642Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:32:16.582Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:32:16.678Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:32:42.871Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:32:42.916Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:34:32.771Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.449Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.561Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.565Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.657Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.662Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.679Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.688Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.691Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.699Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.725Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.759Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.774Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.784Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.802Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.840Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.856Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.867Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.902Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.905Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.910Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.916Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.918Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.920Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.963Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.967Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.975Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.985Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.989Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:15.991Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.011Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.028Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.036Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.038Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.041Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.043Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.046Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.075Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.079Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.084Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.089Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.091Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.093Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.121Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.125Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.127Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.129Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.135Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.137Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.151Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.168Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.171Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.174Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.176Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.178Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.186Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.195Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.208Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.211Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.213Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.218Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.225Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.227Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.243Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.256Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.258Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.268Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.275Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.279Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.293Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.313Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.324Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.326Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.340Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.349Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.355Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.374Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.376Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.389Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.392Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.394Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.411Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.417Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.434Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.437Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.441Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.460Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.463Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.478Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.491Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.494Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.503Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.526Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.543Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.555Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.558Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.568Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.571Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.595Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.608Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.611Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.617Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.623Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.632Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.658Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.662Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.670Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.673Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.678Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.680Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.687Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.696Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.709Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:35:16.712Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:39:05.782Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.034Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.108Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.117Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.223Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.252Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.264Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.280Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.286Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.290Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.303Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.315Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.323Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.327Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.329Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.331Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.335Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.338Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.362Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.365Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.372Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.379Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.390Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.436Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.457Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.459Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.464Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.469Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.471Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.473Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.498Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.511Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.518Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.539Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.546Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.548Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.559Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.575Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.578Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.586Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.589Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.591Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.597Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.610Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.615Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.621Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.628Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.640Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.643Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.653Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.655Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.661Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.677Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.679Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.688Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.692Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.694Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.709Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.711Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.721Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.724Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.727Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.741Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.746Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.762Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.764Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.765Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.787Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.790Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.796Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.798Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.804Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.806Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.815Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.829Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.832Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.840Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.843Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.861Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.872Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.877Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.880Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.882Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.898Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.911Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.913Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.927Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.929Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.941Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.946Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.958Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.961Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.972Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.979Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.980Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:12.997Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.004Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.013Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.018Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.022Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.036Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.039Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.059Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.062Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.073Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.084Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.089Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.094Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.099Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.107Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.114Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.120Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.123Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:13.132Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:17.947Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.060Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.160Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.162Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.265Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.289Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.301Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.305Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.312Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.322Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.368Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.377Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.379Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.382Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.384Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.402Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.411Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.430Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.449Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.460Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.466Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.477Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.483Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.486Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.506Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.512Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.519Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.563Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.597Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.602Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.611Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.613Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.615Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.625Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.630Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.632Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.648Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.650Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.652Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.659Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.661Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.663Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.680Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.682Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.689Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.691Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.698Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.701Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.712Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.720Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.729Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.735Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.739Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.745Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.747Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.756Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.758Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.774Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.778Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.786Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.800Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.802Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.815Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.827Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.830Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.840Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.848Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.853Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.857Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.863Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.866Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.868Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.879Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.885Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.893Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.899Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.900Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.908Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.911Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.915Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.918Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.928Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.931Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.933Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.941Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.943Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.962Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.967Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.974Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.981Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.983Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:31.985Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.009Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.017Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.019Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.031Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.033Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.036Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.045Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.053Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.059Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.066Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.070Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.080Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.084Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.096Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.102Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.107Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.110Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.117Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.124Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.134Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.136Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:40:32.139Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:46:22.738Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:46:22.895Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:46:22.934Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:46:51.197Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:46:51.336Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:46:52.031Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:47:41.909Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:47:43.581Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:47:43.704Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:48:25.563Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:48:25.700Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:48:25.741Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:48:27.013Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:49:37.439Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:49:37.506Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:49:37.636Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T18:50:05.652Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:51:45.200Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:51:45.649Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:51:45.747Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:52:53.551Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:52:53.576Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T18:52:53.600Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:01:48.136Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:01:48.200Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:01:49.088Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:19.118Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:19.134Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:19.291Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:52.378Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:52.469Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:52.645Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:02:57.488Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:03:10.574Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:18.795Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:23.902Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:29.212Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.117Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.270Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.275Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.384Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.391Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.447Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.451Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.456Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.465Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.498Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.522Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.529Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.551Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.565Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.580Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.588Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.637Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.643Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.648Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.655Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.666Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.671Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.692Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.712Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.715Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.731Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.735Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.738Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.746Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.753Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.762Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.784Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.800Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.804Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.814Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.818Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.830Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.838Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.850Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.860Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.866Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.872Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.884Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.886Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.904Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.912Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.921Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.929Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.931Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.942Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.951Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.965Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.968Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.971Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.992Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:34.999Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.013Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.017Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.022Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.028Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.030Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.033Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.048Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.067Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.069Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.072Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.075Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.080Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.083Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.103Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.113Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.119Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.122Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.129Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.132Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.137Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.153Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.171Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.177Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.183Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.186Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.201Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.206Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.217Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.233Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.243Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.262Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.279Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.284Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.286Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.296Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.304Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.316Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.333Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.339Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.346Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.349Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.355Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.362Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.382Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.397Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.405Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.412Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.418Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.430Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.446Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.484Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.495Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.498Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.502Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.504Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.513Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:03:35.519Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:28.416Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:28.443Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:28.648Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:28.713Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:53.902Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:53.931Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:53.952Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:05:54.286Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:06:00.935Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:06:00.995Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:06:00.988Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:06:01.217Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:17.432Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:17.452Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:17.510Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:17.718Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:45.299Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:45.357Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:45.519Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:15:45.653Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:21:58.671Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:22:07.887Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:26:16.272Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:26:16.269Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:26:16.306Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:26:16.538Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:36:22.498Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T19:37:43.634Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:44:42.917Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:44:42.908Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:44:43.150Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T19:44:44.073Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:40.929Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T20:22:49.803Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:49.885Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T20:22:50.674Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:50.928Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T20:22:51.442Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:51.674Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:51.696Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:51.866Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:51.900Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:51.930Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.057Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.128Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.148Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.195Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.237Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.301Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.352Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.369Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.395Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.403Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.506Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.528Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.535Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.544Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.552Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.557Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.606Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.629Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.636Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.654Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.658Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.664Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.680Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.718Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.729Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.736Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.750Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.755Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.761Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.818Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.830Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.837Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.842Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.847Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.851Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.886Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.896Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.899Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.904Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.909Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.913Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.954Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.962Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.966Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.969Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.975Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:52.978Z"}
+{"level":"info","message":"Server running on http://localhost:3000","timestamp":"2026-04-01T20:22:52.933Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.017Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.020Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.028Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.034Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.037Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.043Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.076Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.096Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.114Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.119Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.128Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.131Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.136Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.153Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.183Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.187Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.195Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.198Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.204Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.210Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.250Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.258Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.262Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.268Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.284Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.287Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.302Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.315Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.332Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.354Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.364Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.369Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.386Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.401Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.451Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.454Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.480Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.483Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.487Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.512Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.515Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.564Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.567Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.576Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.578Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.581Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.586Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.637Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.650Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.654Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.662Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.670Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.678Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.682Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.717Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.730Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.733Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.744Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.747Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.752Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:53.762Z"}
+{"level":"info","message":"Autentificado ${data.usuario} admin:${data.admin}","timestamp":"2026-04-01T20:22:55.734Z"}

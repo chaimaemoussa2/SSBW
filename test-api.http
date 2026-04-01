@@ -1,0 +1,32 @@
+GET http://localhost:3000/api/productos
+
+###
+
+GET http://localhost:3000/api/productos/3
+
+###
+
+POST http://localhost:3000/api/productos
+Content-Type: application/json
+
+{
+  "titulo": "Producto API",
+  "descripcion": "Creado desde REST Client",
+  "precio": 12.5,
+  "imagen": "api_producto.jpg"
+}
+
+###
+
+PUT http://localhost:3000/api/productos/116
+Content-Type: application/json
+
+{
+  "titulo": "Producto API actualizado",
+  "descripcion": "Actualizado desde REST Client",
+  "precio": 20
+}
+
+###
+
+DELETE http://localhost:3000/api/productos/116
