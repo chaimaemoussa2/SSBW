@@ -7,13 +7,16 @@ import UsuariosRouter from "./routes/usuarios.ts";
 import cookieParser from "cookie-parser";
 import jwt from "jsonwebtoken";
 import ApiProductosRouter from "./routes/api.productos.ts";
+import cors from "cors";
 
 const app = express();
 const PORT = 3000;
+app.use(cors({ origin: "http://localhost:5173" }));
 
 nunjucks.configure("views", {
   autoescape: true,
   express: app,
+  noCache: true,
 });
 
 app.set("view engine", "njk");

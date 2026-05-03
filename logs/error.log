@@ -4,3 +4,12 @@
 {"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:16.699Z"}
 {"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:03:17.721Z"}
 {"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-03-20T00:05:02.564Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-05-03T21:28:50.115Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-05-03T21:29:00.244Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-05-03T21:29:00.971Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-05-03T21:29:01.611Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nCan't reach database server at 127.0.0.1:55432","timestamp":"2026-05-03T21:29:02.229Z"}
+{"level":"error","message":"Connection terminated unexpectedly","timestamp":"2026-05-03T21:37:18.391Z"}
+{"level":"error","message":"Connection terminated unexpectedly","timestamp":"2026-05-03T21:37:20.962Z"}
+{"level":"error","message":"Connection terminated unexpectedly","timestamp":"2026-05-03T21:37:22.530Z"}
+{"level":"error","message":"\nInvalid `prisma.producto.findMany()` invocation:\n\n\nThe table `public.Producto` does not exist in the current database.","timestamp":"2026-05-03T21:39:21.893Z"}

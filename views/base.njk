@@ -13,17 +13,14 @@
   <nav class="navbar navbar-dark bg-dark">
     <div class="container">
       <a class="navbar-brand" href="/">Tienda Prado Clone</a>
-
       <div class="d-flex align-items-center gap-3">
         <form class="d-flex" method="GET" action="/buscar">
           <input class="form-control me-2" type="search" name="busqueda" placeholder="Search products">
           <button class="btn btn-outline-light" type="submit">Search</button>
         </form>
-
-        <span class="btn btn-warning">
+        <button class="btn btn-warning" type="button" data-bs-toggle="offcanvas" data-bs-target="#carritoOffcanvas">
           Cart ({{ total_carrito or 0 }})
-        </span>
-
+        </button>
         {% if usuario %}
           <span class="text-white">Hello, {{ usuario }}</span>
           <a href="/logout" class="btn btn-outline-light">Logout</a>
@@ -33,9 +30,78 @@
       </div>
     </div>
   </nav>
+  <!-- Offcanvas Cart -->
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="carritoOffcanvas">
+    <div class="offcanvas-header">
+      <h5 class="offcanvas-title">🛒 Your Cart</h5>
+      <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div id="carrito-items">
+        <p class="text-muted">Loading...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Template for each cart item -->
+  <template id="carrito-item-template">
+    <div class="d-flex justify-content-between align-items-center mb-3 border-bottom pb-2">
+      <div>
+        <p class="mb-0 fw-bold item-titulo"></p>
+        <small class="text-muted">Qty: <span class="item-cantidad"></span></small>
+      </div>
+      <button class="btn btn-sm btn-danger btn-eliminar">Remove</button>
+    </div>
+  </template>
 
   <main class="container my-4">
     {% block content %}{% endblock %}
   </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    const carritoOffcanvas = document.getElementById('carritoOffcanvas');
+
+    carritoOffcanvas.addEventListener('show.bs.offcanvas', async () => {
+      const container = document.getElementById('carrito-items');
+      const template = document.getElementById('carrito-item-template');
+
+      container.innerHTML = '<p class="text-muted">Loading...</p>';
+
+      try {
+        const res = await fetch('/api/carrito');
+        const items = await res.json();
+
+        if (items.length === 0) {
+          container.innerHTML = '<p class="text-muted">Your cart is empty.</p>';
+          return;
+        }
+
+        const productos = await Promise.all(
+          items.map(item => fetch(`/api/productos/${item.id}`).then(r => r.json()))
+        );
+
+        container.innerHTML = '';
+
+        items.forEach((item, index) => {
+          const producto = productos[index];
+          const clone = template.content.cloneNode(true);
+
+          clone.querySelector('.item-titulo').textContent = producto.titulo;
+          clone.querySelector('.item-cantidad').textContent = item.cantidad;
+
+          clone.querySelector('.btn-eliminar').addEventListener('click', async () => {
+            await fetch(`/api/carrito/${item.id}`, { method: 'DELETE' });
+            carritoOffcanvas.dispatchEvent(new Event('show.bs.offcanvas'));
+          });
+
+          container.appendChild(clone);
+        });
+
+      } catch (err) {
+        container.innerHTML = '<p class="text-danger">Error loading cart.</p>';
+      }
+    });
+  </script>
 </body>
 </html>

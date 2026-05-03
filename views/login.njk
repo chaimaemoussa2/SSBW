@@ -9,11 +9,12 @@
 
       {% if error %}
         <div class="alert alert-danger">
-          Invalid credentials
+          Credenciales incorrectas. Por favor, inténtalo de nuevo.
         </div>
       {% endif %}
 
-      <form method="POST" action="/login">
+      <form method="POST" action="/login" novalidate>
+
         <div class="mb-3">
           <label for="email" class="form-label">Email</label>
           <input
@@ -21,23 +22,70 @@
             class="form-control"
             id="email"
             name="email"
+            placeholder="usuario@ejemplo.com"
+            autofocus
             required
           >
+          <div class="invalid-feedback">Por favor introduce un email válido.</div>
         </div>
 
         <div class="mb-3">
-          <label for="contrasena" class="form-label">Password</label>
-          <input
-            type="password"
-            class="form-control"
-            id="contrasena"
-            name="contrasena"
-            required
-          >
+          <label for="contrasena" class="form-label">Contraseña</label>
+          <div class="input-group">
+            <input
+              type="password"
+              class="form-control"
+              id="contrasena"
+              name="contrasena"
+              placeholder="Tu contraseña"
+              required
+              minlength="4"
+            >
+            <button class="btn btn-outline-secondary" type="button" id="togglePassword" tabindex="-1">
+              <span id="toggleIcon">👁️</span>
+            </button>
+          </div>
+          <div class="invalid-feedback">La contraseña no puede estar vacía.</div>
         </div>
 
-        <button type="submit" class="btn btn-primary">Login</button>
+        <button type="submit" class="btn btn-primary w-100">Entrar a la tienda →</button>
       </form>
     </div>
   </div>
+
+  <script>
+    // Show/hide password
+    const togglePassword = document.getElementById('togglePassword');
+    const contrasena = document.getElementById('contrasena');
+    const toggleIcon = document.getElementById('toggleIcon');
+
+    togglePassword.addEventListener('click', () => {
+      const isPassword = contrasena.type === 'password';
+      contrasena.type = isPassword ? 'text' : 'password';
+      toggleIcon.textContent = isPassword ? '🙈' : '👁️';
+    });
+
+    // Blur validation
+    const email = document.getElementById('email');
+
+    email.addEventListener('blur', () => {
+      if (!email.validity.valid) {
+        email.classList.add('is-invalid');
+        email.classList.remove('is-valid');
+      } else {
+        email.classList.add('is-valid');
+        email.classList.remove('is-invalid');
+      }
+    });
+
+    contrasena.addEventListener('blur', () => {
+      if (!contrasena.validity.valid) {
+        contrasena.classList.add('is-invalid');
+        contrasena.classList.remove('is-valid');
+      } else {
+        contrasena.classList.add('is-valid');
+        contrasena.classList.remove('is-invalid');
+      }
+    });
+  </script>
 {% endblock %}

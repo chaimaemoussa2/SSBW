@@ -27,6 +27,20 @@ router.get("/api/productos", async (req: Request, res: Response) => {
   }
 });
 
+router.get("/api/productos/random", async (_req: Request, res: Response) => {
+  try {
+    const count = await prisma.producto.count();
+    const skip = Math.floor(Math.random() * count);
+    const producto = await prisma.producto.findFirst({
+      skip,
+    });
+    res.json(producto);
+  } catch (error: unknown) {
+    const message = error instanceof Error ? error.message : "Unknown error";
+    res.status(500).json({ error: message });
+  }
+});
+
 router.get("/api/productos/:id", async (req: Request, res: Response) => {
   try {
     const id = Number(req.params.id);
@@ -112,6 +126,39 @@ router.delete("/api/productos/:id", async (req: Request, res: Response) => {
     });
 
     res.json(producto);
+  } catch (error: unknown) {
+    const message = error instanceof Error ? error.message : "Unknown error";
+    res.status(500).json({ error: message });
+  }
+});
+
+router.get("/api/carrito", (req: Request, res: Response) => {
+  const sessionAny = (req as any).session;
+  const carrito = sessionAny.carrito ?? [];
+  res.json(carrito);
+});
+
+router.delete("/api/carrito/:id", async (req: Request, res: Response) => {
+  try {
+    const id = Number(req.params.id);
+    const sessionAny = (req as any).session;
+
+    if (!sessionAny.carrito) {
+      res.json({ ok: true });
+      return;
+    }
+
+    const index = sessionAny.carrito.findIndex((item: any) => item.id === id);
+    if (index !== -1) {
+      sessionAny.carrito.splice(index, 1);
+    }
+
+    sessionAny.total_carrito = sessionAny.carrito.reduce(
+      (acc: number, item: any) => acc + Number(item.cantidad),
+      0
+    );
+
+    res.json({ ok: true, total: sessionAny.total_carrito });
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : "Unknown error";
     res.status(500).json({ error: message });
