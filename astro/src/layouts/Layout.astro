@@ -1,0 +1,21 @@
+---
+import '../styles/global.css';
+---
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SSBW Astro</title>
+  </head>
+  <body class="bg-gray-100 font-montserrat">
+    <nav class="bg-gray-800 p-4 flex gap-6 justify-center">
+      <a href="/" class="text-white hover:text-yellow-300">Portada</a>
+      <a href="/carrousel" class="text-white hover:text-yellow-300">Carousel</a>
+      <a href="/ssg" class="text-white hover:text-yellow-300">SSG</a>
+    </nav>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>

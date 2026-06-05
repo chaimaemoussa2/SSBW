@@ -1,0 +1,8 @@
+---
+import CarrouselSSG from '../components/CarrouselSSG';
+import Layout from '../layouts/Layout.astro';
+import productos from '../../data/productos.json';
+---
+<Layout>
+  <CarrouselSSG productos={productos} client:load />
+</Layout>

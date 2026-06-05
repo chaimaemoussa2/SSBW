@@ -1,0 +1,21 @@
+---
+import '../styles/global.css';
+---
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tienda Prado</title>
+  </head>
+  <body class="bg-gray-50 font-montserrat">
+    <nav class="bg-white border-b p-4 flex gap-6 justify-center">
+      <a href="/" class="text-gray-700 hover:text-yellow-600 font-bold">Portada</a>
+      <a href="/carrousel" class="text-gray-700 hover:text-yellow-600 font-bold">Carousel</a>
+      <a href="/ssg" class="text-gray-700 hover:text-yellow-600 font-bold">SSG</a>
+    </nav>
+    <main class="container mx-auto px-4 py-8">
+      <slot />
+    </main>
+  </body>
+</html>
